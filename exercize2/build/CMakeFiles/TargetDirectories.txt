@@ -1,0 +1,7 @@
+C:/Users/oyuel/OneDrive/Desktop/course-ScientificProgramming-master/AA2025-2026/exercize2/build/CMakeFiles/BVP.dir
+C:/Users/oyuel/OneDrive/Desktop/course-ScientificProgramming-master/AA2025-2026/exercize2/build/CMakeFiles/BVP_optimized.dir
+C:/Users/oyuel/OneDrive/Desktop/course-ScientificProgramming-master/AA2025-2026/exercize2/build/CMakeFiles/edit_cache.dir
+C:/Users/oyuel/OneDrive/Desktop/course-ScientificProgramming-master/AA2025-2026/exercize2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/oyuel/OneDrive/Desktop/course-ScientificProgramming-master/AA2025-2026/exercize2/build/fmt-build/CMakeFiles/fmt.dir
+C:/Users/oyuel/OneDrive/Desktop/course-ScientificProgramming-master/AA2025-2026/exercize2/build/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/oyuel/OneDrive/Desktop/course-ScientificProgramming-master/AA2025-2026/exercize2/build/fmt-build/CMakeFiles/rebuild_cache.dir
