@@ -1,0 +1,8 @@
+quantity,value
+equilibrium_error_norm,6.08367e-09
+jacobian_error_norm,1.94677e-10
+newton_autodiff_cpu_ms,0.4163
+jacobian_autodiff_cpu_ms,0.0189
+eigenanalysis_cpu_ms,0.0817
+rk4_cpu_ms,45.5578
+final_residual_norm,2.17656e-10

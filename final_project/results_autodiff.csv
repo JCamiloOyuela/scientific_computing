@@ -1,0 +1,2 @@
+method,delta_star,omega_star,residual_norm,cpu_ms,converged
+Newton autodiff,0.729728,1,2.17656e-10,0.4163,1
